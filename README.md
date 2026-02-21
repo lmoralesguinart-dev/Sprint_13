@@ -14,7 +14,6 @@ El estudio se centra en:
 - **EDA**: Exploración de los ejes de luminosidad y estructura de los estilos artísticos.
 - **Clasificación supervisada con Random Forest**: predicción del movimiento artístico a partir de las variables técnicas.
 
----
 
 ## ⚙️ Metodología
 
@@ -27,7 +26,6 @@ El estudio se centra en:
 - Clasificación supervisada mediante **Random Forest** combinado con **SMOTE** para equilibrar clases.
 - Validación externa con 24 obras de autores no presentes en el dataset.
 
----
 
 ## 🛠 Herramientas utilizadas
 
@@ -39,7 +37,6 @@ El estudio se centra en:
 - Seaborn
 - Scikit-learn
 
----
 
 ## 📈 Resultados
 
@@ -49,7 +46,6 @@ El estudio se centra en:
 - La validación con autores no vistos confirmó la capacidad de generalización del modelo.
 - Los resultados sugieren que los estilos artísticos poseen una **huella matemática medible**, incluso cuando se describen mediante solo nueve variables agregadas.
 
----
 
 ## 🎯 Conclusiones
 
@@ -59,7 +55,6 @@ La reducción de obras pictóricas a descriptores matemáticos no sustituye la i
 
 Más que reducir el arte a números, este enfoque revela que incluso la intuición deja rastro estadístico.
 
----
 
 ## 📚 Referencias
 
