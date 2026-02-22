@@ -59,3 +59,13 @@ Más que reducir el arte a números, este enfoque revela que incluso la intuici�
 ## 📚 Referencias
 
 Rubayo, S. (2021). *Te gusta el arte aunque no lo sepas*. Paidós.
+
+## Dataset
+
+El dataset original fue obtenido de Kaggle:
+
+[https://www.kaggle.com/datasets/ikarus777/best-artworks-of-all-time]
+
+Para reproducir el proyecto:
+ Descargar el dataset desde Kaggle (artists.csv + resized (img))
+
