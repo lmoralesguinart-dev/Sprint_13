@@ -3,7 +3,7 @@
 Análisis de movimientos artísticos de obras de arte mediante análisis de datos y técnicas de Machine Learning.
 
 
-## 📌 Descripción del proyecto
+## Descripción del proyecto
 
 Este repositorio contiene un proyecto de análisis de datos aplicado a obras pictóricas pertenecientes a los principales movimientos de la Historia del Arte (Renacimiento, Barroco, Romanticismo y Realismo, Impresionismo, Post-impresionismo y Vanguardias). El objetivo principal es explorar hasta qué punto una obra de arte puede ser traducida a descriptores numéricos capaces de capturar patrones estilísticos y permitir su clasificación automatizada.
 
@@ -15,7 +15,7 @@ El estudio se centra en:
 - **Clasificación supervisada con Random Forest**: predicción del movimiento artístico a partir de las variables técnicas.
 
 
-## ⚙️ Metodología
+## Metodología
 
 - Recopilación de un dataset compuesto por obras al óleo de Los 50 pintores más influyentes de la Historia del Arte.
 - Extracción de **9 variables estadísticas** a partir de cada imagen mediante procesamiento computacional.
@@ -27,7 +27,7 @@ El estudio se centra en:
 - Validación externa con 24 obras de autores no presentes en el dataset.
 
 
-## 🛠 Herramientas utilizadas
+## Herramientas utilizadas
 
 - Python
 - OpenCV
@@ -38,7 +38,7 @@ El estudio se centra en:
 - Scikit-learn
 
 
-## 📈 Resultados
+## Resultados
 
 - El modelo Random Forest alcanzó una **precisión del 51,25%**, mejorando aproximadamente un 40% el baseline de la clase mayoritaria.
 - El análisis PCA permitió mapear los movimientos artísticos en un espacio interpretable como **“Luminosidad vs. Complejidad”**.
@@ -47,7 +47,7 @@ El estudio se centra en:
 - Los resultados sugieren que los estilos artísticos poseen una **huella matemática medible**, incluso cuando se describen mediante solo nueve variables agregadas.
 
 
-## 🎯 Conclusiones
+## Conclusiones
 
 Este proyecto demuestra que el arte, aunque profundamente subjetivo, contiene regularidades formales cuantificables.
 
@@ -56,7 +56,7 @@ La reducción de obras pictóricas a descriptores matemáticos no sustituye la i
 Más que reducir el arte a números, este enfoque revela que incluso la intuición deja rastro estadístico.
 
 
-## 📚 Referencias
+## Referencias
 
 Rubayo, S. (2021). *Te gusta el arte aunque no lo sepas*. Paidós.
 
